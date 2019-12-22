@@ -11,8 +11,3 @@ class Anagram
       is_array?(word)
     end
   end 
-
-  # def is_array?(word)
-  #   word.chars.sort == array.chars.sort
-  # end
-end
