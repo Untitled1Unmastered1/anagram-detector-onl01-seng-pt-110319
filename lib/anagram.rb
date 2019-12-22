@@ -15,7 +15,4 @@ class Anagram
   def is_array?(word)
     word.chars.sort == array.chars.sort
   end
-  
-  diaper = Anagram.new("diaper")
-  diaper.match (%w(enlists google dipper banana))
 end
