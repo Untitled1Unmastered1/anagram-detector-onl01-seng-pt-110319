@@ -11,3 +11,5 @@ class Anagram
       is_array?(word)
     end
   end 
+
+/
