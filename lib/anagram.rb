@@ -1,9 +1,8 @@
 class Anagram
-  attr_accessor :array, :word 
+  attr_accessor :array
   
   def initialize(array)
     @array = array
-    @word = word 
   end
 
   def match(array)
